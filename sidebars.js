@@ -7,7 +7,7 @@
 
 module.exports = {
   docs: {
-    Basics: ['overview', 'architecture', 'getting-started'],
-    Developers: ['mdx'],
+    Basics: ['overview', 'architecture', 'roadmap'],
+    Developers: ['getting-started'],
   },
 };

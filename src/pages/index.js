@@ -1,10 +1,3 @@
-/**
- * Copyright (c) 2017-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
 import React from 'react';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
@@ -15,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Access to wide range of funding</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        GitFunded provides early stage innovative projects to get access to wide range of funding.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>An easy to use decentralized application</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        The platform was designed by keeping a wide range of developement communities in mind.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Scalable platforms</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Uses cutting edge scalable blockchain platform and interactive frontend framework.
       </>
     ),
   },
@@ -78,7 +68,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/doc1')}>
+              to={useBaseUrl('docs/overview')}>
               Get Started
             </Link>
           </div>

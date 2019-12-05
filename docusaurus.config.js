@@ -15,10 +15,10 @@ module.exports = {
   projectName: 'gitfunded', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'GitFunded',
+      title: '',
       logo: {
         alt: 'GitFunded Logo',
-        src: 'img/logo.svg',
+        src: 'img/gitfunded-logo.png',
       },
       links: [
         {to: 'docs/overview', label: 'Docs', position: 'left'},
