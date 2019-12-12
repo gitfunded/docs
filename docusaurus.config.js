@@ -8,11 +8,11 @@
 module.exports = {
   title: 'GitFunded',
   tagline: 'Checkout the documentation',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://gitfunded.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'gitfunded', // Usually your GitHub org/user name.
-  projectName: 'gitfunded', // Usually your repo name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '',
