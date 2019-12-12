@@ -9,17 +9,19 @@ You can read more about it [here](https://github.com/gitfunded/gitfunded-web).
 ## Why GitFunded?
 
 ---
-Internet has provided a great way to collaborate for profit or non profit. But it surely paved a way
-for so many ideas to turn into actual products that made our lives easier. But also it doesn't help every innovations.
-May be due to lack of reach or lack of trust to take an idea to the next level. We wanted to create a platform where it is convenient for
-a project to reach out to the masses and **get funded** and also keep the project supporters in loop about the progress.
+Internet has provided a great way to collaborate for profit or non profit. It surely paved a way
+for so many ideas to turn into actual products that made our lives easier. But just an open network cannot help every innovations to come to light.
+May be due to lack of reach or lack of trust to take an idea to a higher grounds. 
+
+We wanted to create a platform where it is convenient for
+any project to reach out to the masses and **get funded** and also keep the project supporters in a loop about the progress.
 
 ## What is GitFunded?
 
 GitFunded aims to provided a sustainable funding for open source software (OSS)
-community. It tries to overcome some of the issues with the existing funding, bounties platform with the help of decentralized system.
+community. It tries to overcome some of the issues in the existing funding, bounty platform with the help of decentralized system.
 
-Although we have integrated the funding solution for GitHub as of now, we look forward to more integration to reach wider
+Although we initially integrated the funding solution for GitHub, we look forward to more integrations and reach a wider
 developer community.
 
 ---
@@ -27,10 +29,26 @@ developer community.
 ## GitFunded features
 
 * Create a project (GitHub) to get funded
+    * Tell about the project, organization.
+    * Define admins, and toe
+    * Set the budget for the project
+
 * Sponsor any of the public projects (One time/ recurring)
 * Create issues/ tasks for the project and attach bounty
+    * Create a new task or select an existing task and attach the bounty
+    *  Mention the acceptance criteria (Number of votes, deadline)
+
 * Create expenses to maintain the project
+    * Add founders fees
+    * Add any expense of the project and get it approved from the community
+    
+* Post events and updates
+    * Announce conferences, workshops, meetups
+    
 * Integration with DAO smart contracts
+    
+* Assist to Exchange currencies and file taxes
+    * Integrating exchanges and accounting assists
 
 ## Highlights
 

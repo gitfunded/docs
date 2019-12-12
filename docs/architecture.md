@@ -43,7 +43,7 @@ Everyone passing the GitFunded is a watcher. But logged in entities can choose t
 ## Technical architecture
 The following technical architecture diagram consists of all the protocols and services used by GitFunded. 
 
-![gitfunded-architecture.png](../static/img/gitfunded-architecture.png)
+![gitfunded-architecture.png](../img/gitfunded-architecture.png)
 
 ### GitFunded actions involve:
 * Creating a project (admin)

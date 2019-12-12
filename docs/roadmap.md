@@ -22,8 +22,8 @@ title: Development road map
 
 ## 2020 - Quarter 1
 
-1. [ ] 
-2. [ ] 
+1. [ ] Apply quadratic funding strategies to rate the projects
+2. [ ] New frontend UX
 
 ## 2020 - Quarter 2
 
@@ -32,7 +32,3 @@ title: Development road map
 
 
 [trello board]: https://trello.com/b/enKFbhRI/gitfunded
-
-
-
-
