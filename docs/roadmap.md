@@ -16,7 +16,7 @@ title: Development road map
     1. [x] Contract interaction
     2. [x] GitHub API interaction
 4. [x] Document the basic details
-5. [ ] Redesign the contract with factory pattern
+5. [x] Redesign the contract with factory pattern
 6. [ ] Blockstack authentication
 7. [ ] Redesign UX
 
@@ -24,6 +24,7 @@ title: Development road map
 
 1. [ ] Apply quadratic funding strategies to rate the projects
 2. [ ] New frontend UX
+3. [ ] Integrating DAO platforms
 
 ## 2020 - Quarter 2
 
