@@ -17,14 +17,16 @@ title: Development road map
     2. [x] GitHub API interaction
 4. [x] Document the basic details
 5. [x] Redesign the contract with factory pattern
-6. [ ] Blockstack authentication
-7. [ ] Redesign UX
+
 
 ## 2020 - Quarter 1
 
-1. [ ] Apply quadratic funding strategies to rate the projects
-2. [ ] New frontend UX
-3. [ ] Integrating DAO platforms
+1. [ ] Blockstack authentication
+2. [ ] Redesign UX
+3. [ ] Integrate StandardBounties contract
+4. [ ] Apply quadratic funding strategies to rate the projects
+5. [ ] New frontend UX
+6. [ ] Integrate DAO platforms
 
 ## 2020 - Quarter 2
 
