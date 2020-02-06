@@ -19,18 +19,20 @@ Admin is responsible for creating the project by referencing a GitHub project. A
 * Deleting the project and thus refunding the funded amount
  
 
-## Project sponsor
+## Project member/ sponsor
 
-Project sponsor fund the desired project. Sponsor can be a DAO such as MolochDAO, DAOStack
+Project sponsor will be part of the project by funding the desired project. Sponsor will also be the part of DAO such as MolochDAO, DAOStack
 
 * Funds the project with any crypto currencies (currently ERC20 tokens)
 * Receives the funded amount back in case project discontinues
+* Makes decisions for all the proposals (Expenses and tasks)
 
-## Project member
+## Project Contributor
 
-Member is the contributor of the project, often developer
+Contributor of the project, often developer
 
-* Creates issues/ tasks for the project
+* Creates proposals (issues/ tasks, expenses) for the project
+* Needs to find a member to support the proposal
 * Adds project expenses
 * Works on an existing issue/ task
 
@@ -58,6 +60,22 @@ The following technical architecture diagram consists of all the protocols and s
 
 
 ## High level architecture
+
+
+
+
+## Contract architecture
+
+GitFunded makes use of several standards set by some of the popular open source applications such 
+as Standard Bounties, Gitcoin, Moloch DAO to achieve composability. After all, what is 
+the point of an open decentralized infrastructure if we cannot achieve the interoperability between the DApps.
+
+The standardization not only helps to achieve composability but also saves a lot of research and 
+implementation time for new projects like ours. Below figure explains how we integrated with the existing contracts in GitFunded.   
+
+![gitfunded-contract-architecture.png](../img/gitfunded-contract-architecture.png)
+
+
 
 
 

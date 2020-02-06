@@ -23,7 +23,7 @@ title: Development road map
 
 1. [ ] Blockstack authentication
 2. [ ] Redesign UX
-3. [ ] Integrate StandardBounties contract
+3. [X] Integrate StandardBounties contract
 4. [ ] Create DAO like infrastructure for project backers
 5. [ ] Apply quadratic funding strategies to rate the projects
 6. [ ] New frontend UX
