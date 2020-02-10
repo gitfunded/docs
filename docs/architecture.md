@@ -61,6 +61,14 @@ The following technical architecture diagram consists of all the protocols and s
 
 ## High level architecture
 
+A GiFunded platform has the following end to end flow
+
+* Any registered user will create a project if it matches the criteria. The user will become the **admin** for the project
+* Any registered user can become the project **member** by funding the minimum amount
+    * Member will receive the shares in return for the contribution
+* Any registered user can create tasks/ expenses (proposals)
+* The members with the shares decide on the proposals voting
+* Accepted proposals receive the funding
 
 
 
