@@ -26,7 +26,28 @@ developer community.
 
 ---
 
-## GitFunded features
+
+## Literature review
+
+Existing solutions for funding public goods (developers, maintainers, promoters) in Ethereum community:
+
+* [Gitcoin Grants](https://gitcoin.co/grants/)
+* [MolochDAO](https://molochdao.com/)
+* [Bounty Network](https://bounties.network/)
+* [Democracy Earth](https://democracy.earth/)
+
+Existing solutions for funding the open source community:
+
+* [Open Collective](https://opencollective.com/)
+
+### How GitFunded is different?
+
+* None of the grant platforms on Ethereum keep track of how the grant funds are spent 
+* So, GitFunded is not just a grant or bounty platform but also an issue tracker and governance platform
+
+Following features summarize GitFended's approach to fund and govern the open source projects.
+
+### GitFunded features
 
 * Create a project (GitHub) to get funded
     * Tell about the project, organization.
@@ -57,5 +78,6 @@ developer community.
 * Use crypto currencies or stable coins to fund the projects
 * Improved transparency over the budget allocations for dev tasks/ expenses
 * Wider access to funding though DAO platforms
+
 
 ---
