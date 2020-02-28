@@ -49,13 +49,20 @@ Following features summarize GitFended's approach to fund and govern the open so
 
 ### GitFunded features
 
+#### Project creation
+
 * Create a project (GitHub) to get funded
     * Tell about the project, organization.
-    * Define admins, and toe
+    * Define admins, initial members and contributors
     * Set the budget for the project
+    
+#### Project funding (grants)
 
 * Sponsor any of the public projects (One time/ recurring)
-* Create issues/ tasks for the project and attach bounty
+
+#### Project management 
+
+* Create issues/ tasks (proposals) for the project and attach a cost
     * Create a new task or select an existing task and attach the bounty
     *  Mention the acceptance criteria (Number of votes, deadline)
 
@@ -65,18 +72,25 @@ Following features summarize GitFended's approach to fund and govern the open so
     
 * Post events and updates
     * Announce conferences, workshops, meetups
+
+#### Project governance    
     
-* Integration with DAO smart contracts
+* [Governance system](./governance) inspired by MolochDAO
+* Members can govern the proposals for tasks and expenses
+
+
+#### Miscellaneous
     
 * Assist to Exchange currencies and file taxes
     * Integrating exchanges and accounting assists
 
 ## Highlights
 
-* Easy onboading
+* Easy on boarding
 * Easy to manage/ monitor the activities of the projects
 * Use crypto currencies or stable coins to fund the projects
 * Improved transparency over the budget allocations for dev tasks/ expenses
+* Governance of project funds and activities
 * Wider access to funding though DAO platforms
 
 
