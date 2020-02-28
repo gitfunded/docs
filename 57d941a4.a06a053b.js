@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{112:function(t){t.exports=JSON.parse('{"id":"getting-started","title":"Getting started","description":"## Quick Start","source":"@site/docs/getting_started.md","permalink":"/docs/getting-started","sidebar":"docs","previous":{"title":"Development road map","permalink":"/docs/roadmap"}}')}}]);
