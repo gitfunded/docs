@@ -21,18 +21,18 @@ title: Development road map
 
 ## 2020 - Quarter 1
 
-1. [ ] Blockstack authentication
-2. [ ] Redesign UX
-3. [X] Integrate StandardBounties contract
-4. [ ] Create DAO like infrastructure for project backers
-5. [ ] Apply quadratic funding strategies to rate the projects
-6. [ ] New frontend UX
-7. [ ] Integrate DAO platforms
+1. [x] Redesign UX
+2. [X] Integrate StandardBounties contract
+3. [x] Create DAO like infrastructure for project backers
+4. [x] New frontend UX
 
 ## 2020 - Quarter 2
 
-1. [ ] 
-2. [ ] 
+1. [ ] Apply quadratic funding strategies to rate the projects
+2. [ ] Integrate DAO platforms
+3. [ ] Integrate ENS
+4. [ ] Test GSN Meta transaction for on boarding
+5. [ ] Release beta on testnet (Rinkeby)
 
 
 [trello board]: https://trello.com/b/enKFbhRI/gitfunded
