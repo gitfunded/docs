@@ -10,11 +10,11 @@ tags: [API, Github, OAuth]
 
 Hey there!
 
-<!--truncate-->
-
 In this blog post, I will walk you through how we can connect and interact with Github API without the hassle.
 
-Github API documentation is packed with tons of features and endpoints, which could result in information overload especially if anyone is starting out first, atleast what happened in my case.
+<!--truncate-->
+
+Github API documentation is packed with tons of features and endpoints, which could result in information overload especially if anyone is starting out first, at least what happened in my case.
 
 So the goal of this blog post is how we can set up our application and interact with Github API.
 
@@ -26,7 +26,7 @@ Therefore, We have various ways to authenticate through GitHub API v3. If we try
 
 The GitHub API provides us two ways for authentication to get access to private details from the repository.
 
-**1.** _Basic Authentication : Using username as query parametres_
+**1.** _Basic Authentication : Using username as query parameters_
 
 **2.** _OAuth2 Token : Using Auth Token_
 
@@ -47,7 +47,7 @@ we need to provide the following fields :
 
 The point of submitting the details is we get a _client_id_ which we will use further below
 
-![oauth](../static/img/oauth.PNG)
+![oauth](/img/oauth.PNG)
 
 **2** **Authorizing OAuth Apps** : This is the most crucial step where the authentication happens.you can enable users to authorize your apps using either traditional way such as _Redirect URLs_ , _Non-Web application flow_ or using more modern approach such as _Web-application_ flow, which we are going to discuss here.
 
@@ -73,7 +73,7 @@ fetch(`https://yourOwnCreatedDomainUsingGatekeeper.herokuapp.com/authenticate/${
         };
 ```
 
-After sucessfully getting the _access token_ , now we can send _authenticated_ network request with the access token in our header to the GitHub API endpoints mentioned in the documentation.
+After successfully getting the _access token_ , now we can send _authenticated_ network request with the access token in our header to the GitHub API endpoints mentioned in the documentation.
 
 You can either use `raw GitHub endpoints` as it is in the documentation or use a high-level wrapper which makes things incredibly easier according to the programming language of our choice while making endpoint requests.
 
