@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{115:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"gitfunded","name":"gitfunded","count":2,"permalink":"/blog/tags/gitfunded"}')}}]);
