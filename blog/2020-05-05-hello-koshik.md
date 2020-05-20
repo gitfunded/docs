@@ -12,6 +12,15 @@ Welcome to this blog. This blog is created with [**Docusaurus 2 alpha**](https:/
 
 <!--truncate-->
 
-This is a test post.
+Everyone who maintains an online portfolio will eventually maintain their on website to maintain all their 
+resources at one place. There are plenty of ways to create and host static websites freely on the internet 
+using different platforms. Hosting a website essentially requires a web hosting platform and a domain name bought
+from registrars such as GoDaddy, NameCheap, BigRock etc. We being an advocate of decentralization and censorship 
+resistant are in search of purely decentralized way of hosting a web application. That's what we will discuss in this
+article by deploying a static website using IPFS and ENS.
 
-A whole bunch of other information.
+##  Introducing IPFS and ENS
+
+
+
+
