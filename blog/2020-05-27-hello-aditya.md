@@ -8,6 +8,9 @@ author_image_url: https://avatars2.githubusercontent.com/u/60963825?s=460&v=4
 tags: [moloch, gitfunded, dao]
 ---
 
+In this blog post, We will start by looking on Governance and its specific form Moloch DAO and then we will try it to link it to our main project and use Governance feature with it.
+
+<!--truncate-->
 
 **Governance** determines who has power, who makes decisions, how other players make their voice heard and how account is rendered.
 
@@ -21,7 +24,7 @@ The need for governance exists anytime a group of people come together to accomp
 5. Fairness
 
 Read more on [** Governance **](https://iog.ca/what-is-governance/)
-<!--truncate-->
+
 
 What is a **DAO**? It is defined as “a censorship-resistant means to coordinate the deployment of shared resources towards a shared objective”.
 A simple example of DAO will be a multisig account where a group of many members can withdraw significant sum of money for a cause.
@@ -57,7 +60,7 @@ Before we dive deep into Moloch DAO lets get familiar with its some of its basic
 “Ragequit” the guild within a “grace period” after voting on a proposal completes but before those members’ ownership is affected by that
 proposal.To prevent contentious vote where a large minority exits , it is only allowed for members who voted "NO".
 
-### Working
+### Mechanism
 
 Any member who has shares have voting power and the  members are not allowed to transfer shares to any one.To become a member the new member must convince an existing member to submit a proposal on his behalf.Existing member evaluate the proposal based on the tribute offered by the new members.A proposal is not only to add members but also to add different functionality or anything that requires to spend tokens from guild bank.Members can propose a proposal to add a functionality and get shares or token from guild bank in return.
 
@@ -67,7 +70,7 @@ After the proposal is processed and the members who voted "NO" are not happy wit
 
 In the newer version of Moloch members can also Rage Kick other members and concept of loot, jailing members and bail out member are also incorporated.Though these are important concepts they were not relevant to our project and its need so were left out from the code.
 
-![Moloch Working](../static/img/moloch.jpeg)
+![Moloch Working](/img/moloch.jpeg)
 
 ### Integration
 
@@ -92,3 +95,4 @@ dao.submitProposal(applicant,sharesRequested,lootRequested,tributeOffered,tribut
 ```
 You can call any other function as told above which means your Governance code is now integrated with main project.
 
+You can find the entire code [**here**](https://github.com/gitfunded/contracts/tree/master/truffle-contracts/contracts)
