@@ -46,5 +46,6 @@ jobs:
         run: |
           git config --global user.email "koshik.raj@gmail.com"
           git config --global user.name "koshikraj"
+          npm install
           npm ci
           npx docusaurus deploy
